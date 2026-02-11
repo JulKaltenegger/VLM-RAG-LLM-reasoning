@@ -1,0 +1,462 @@
+[
+    {
+        "filename": "1946-1964_Terrace House Corner_Red fired clay brick.png",
+        "Year": "1946-1964",
+        "Region": "Eindhoven (Netherlands)",
+        "BuildingType": "Terrace House",
+        "materialCategory": "Brick",
+        "materialType": "Brick masonry unit",
+        "materialSubType": "Red fired clay brick",
+        "LayerSet": "Single Layer Wall"
+    },
+    {
+        "filename": "1946-1964_Terrace House_Red fired clay brick.png",
+        "Year": "1946-1964",
+        "Region": "Eindhoven (Netherlands)",
+        "BuildingType": "Terrace House",
+        "materialCategory": "Brick",
+        "materialType": "Brick masonry unit",
+        "materialSubType": "Red fired clay brick",
+        "LayerSet": "Cavity Wall"
+    },
+    {
+        "filename": "1946_Semi Detached House_Brown fired clay brick.png",
+        "Year": "1946",
+        "Region": "Eindhoven (Netherlands)",
+        "BuildingType": "Semi Detached House",
+        "materialCategory": "Brick",
+        "materialType": "Brick masonry unit",
+        "materialSubType": "Brown fired clay brick",
+        "LayerSet": "Single Layer Wall"
+    },
+    {
+        "filename": "1946_Terrace House Corner_White fired clay brick.png",
+        "Year": "1946",
+        "Region": "Eindhoven (Netherlands)",
+        "BuildingType": "Terrace House",
+        "materialCategory": "Brick",
+        "materialType": "Brick masonry unit",
+        "materialSubType": "White fired clay brick",
+        "LayerSet": "Cavity Wall"
+    },
+    {
+        "filename": "1946_Terrace House_Red fired clay brick.png",
+        "Year": "1946",
+        "Region": "Eindhoven (Netherlands)",
+        "BuildingType": "Terrace House",
+        "materialCategory": "Brick",
+        "materialType": "Brick masonry unit",
+        "materialSubType": "Red fired clay brick",
+        "LayerSet": "Cavity Wall"
+    },
+    {
+        "filename": "1964-1974_Detached House_Red fired clay brick_3.png",
+        "Year": "1964-1974",
+        "Region": "Eindhoven (Netherlands)",
+        "BuildingType": "Detached House",
+        "materialCategory": "Brick",
+        "materialType": "Brick masonry unit",
+        "materialSubType": "Red fired clay brick",
+        "LayerSet": "Cavity Wall"
+    },
+    {
+        "filename": "1964-1974_Detached House_Red fired clay brick_4.png",
+        "Year": "1964-1974",
+        "Region": "Eindhoven (Netherlands)",
+        "BuildingType": "Detached House",
+        "materialCategory": "Brick",
+        "materialType": "Brick masonry unit",
+        "materialSubType": "Red fired clay brick",
+        "LayerSet": "Cavity Wall"
+    },
+    {
+        "filename": "1964_Apartment House_Brown fired clay brick_Light weight Concrete.png",
+        "Year": "1964",
+        "Region": "Eindhoven (Netherlands)",
+        "BuildingType": "Apartment House",
+        "materialCategory": "Brick",
+        "materialType": "Brick masonry unit",
+        "materialSubType": "Brown fired clay brick",
+        "LayerSet": "Single Layer Wall"
+    },
+    {
+        "filename": "1964_Detached House_Red fired clay brick.png",
+        "Year": "1964",
+        "Region": "Eindhoven (Netherlands)",
+        "BuildingType": "Detached House",
+        "materialCategory": "Brick",
+        "materialType": "Brick masonry unit",
+        "materialSubType": "Red fired clay brick",
+        "LayerSet": "Single Layer Wall"
+    },
+    {
+        "filename": "1964_Detached House_White fired clay brick.png",
+        "Year": "1964",
+        "Region": "Eindhoven (Netherlands)",
+        "BuildingType": "Detached House",
+        "materialCategory": "Brick",
+        "materialType": "Brick masonry unit",
+        "materialSubType": "White fired clay brick",
+        "LayerSet": "Single Layer Wall"
+    },
+    {
+        "filename": "1964_Gallery House_Red fired clay brick.png",
+        "Year": "1964",
+        "Region": "Eindhoven (Netherlands)",
+        "BuildingType": "Apartment House",
+        "materialCategory": "Brick",
+        "materialType": "Brick masonry unit",
+        "materialSubType": "Red fired clay brick",
+        "LayerSet": "Single Layer Wall"
+    },
+    {
+        "filename": "1964_Maisonette House_Red fired clay brick.png",
+        "Year": "1964",
+        "Region": "Eindhoven (Netherlands)",
+        "BuildingType": "Apartment House",
+        "materialCategory": "Brick",
+        "materialType": "Brick masonry unit",
+        "materialSubType": "Red fired clay brick",
+        "LayerSet": "Single Layer Wall"
+    },
+    {
+        "filename": "1965-1974_Apartment House_Brown fired clay brick.png",
+        "Year": "1965-1974",
+        "Region": "Eindhoven (Netherlands)",
+        "BuildingType": "Apartment House",
+        "materialCategory": "Brick",
+        "materialType": "Brick masonry unit",
+        "materialSubType": "Brown fired clay brick",
+        "LayerSet": "Multi Layer Wall"
+    },
+    {
+        "filename": "1965-1974_Maisonette House_Red fired clay brick.png",
+        "Year": "1965-1974",
+        "Region": "Eindhoven (Netherlands)",
+        "BuildingType": "Apartment House",
+        "materialCategory": "Brick",
+        "materialType": "Brick masonry unit",
+        "materialSubType": "Red fired clay brick",
+        "LayerSet": "Multi Layer Wall"
+    },
+    {
+        "filename": "1965-1974_Semi Detached House_Brown fired clay brick.png",
+        "Year": "1965-1974",
+        "Region": "Eindhoven (Netherlands)",
+        "BuildingType": "Semi Detached House",
+        "materialCategory": "Brick",
+        "materialType": "Brick masonry unit",
+        "materialSubType": "Brown fired clay brick",
+        "LayerSet": "Multi Layer Wall"
+    },
+    {
+        "filename": "1965-1974_Terrace House Corner_Red fired clay brick.png",
+        "Year": "1965-1974",
+        "Region": "Eindhoven (Netherlands)",
+        "BuildingType": "Terrace House",
+        "materialCategory": "Brick",
+        "materialType": "Brick masonry unit",
+        "materialSubType": "Red fired clay brick",
+        "LayerSet": "Cavity Wall"
+    },
+    {
+        "filename": "1965-1974_Terrace House_Red fired clay brick.png",
+        "Year": "1965-1974",
+        "Region": "Eindhoven (Netherlands)",
+        "BuildingType": "Terrace House",
+        "materialCategory": "Brick",
+        "materialType": "Brick masonry unit",
+        "materialSubType": "Red fired clay brick",
+        "LayerSet": "Cavity Wall"
+    },
+    {
+        "filename": "1974-1991_Semi Detached House_Red fired clay brick.png",
+        "Year": "1974-1991",
+        "Region": "Eindhoven (Netherlands)",
+        "BuildingType": "Semi Detached House",
+        "materialCategory": "Brick",
+        "materialType": "Brick masonry unit",
+        "materialSubType": "Red fired clay brick",
+        "LayerSet": "Multi Layer Wall"
+    },
+    {
+        "filename": "1975-1991_Detached House_Red fired clay brick.png",
+        "Year": "1975-1991",
+        "Region": "Eindhoven (Netherlands)",
+        "BuildingType": "Detached House",
+        "materialCategory": "Brick",
+        "materialType": "Brick masonry unit",
+        "materialSubType": "Red fired clay brick",
+        "LayerSet": "Multi Layer Wall"
+    },
+    {
+        "filename": "1975-1991_Gallery House_Light weight Concrete.png",
+        "Year": "1975-1991",
+        "Region": "Eindhoven (Netherlands)",
+        "BuildingType": "Apartment House",
+        "materialCategory": "Concrete",
+        "materialType": "Light weight Concrete ",
+        "materialSubType": null,
+        "LayerSet": "Frame Construction"
+    },
+    {
+        "filename": "1975-1991_Maisonette House_Red fired clay brick.png",
+        "Year": "1975-1991",
+        "Region": "Eindhoven (Netherlands)",
+        "BuildingType": "Apartment House",
+        "materialCategory": "Brick",
+        "materialType": "Brick masonry unit",
+        "materialSubType": "Red fired clay brick",
+        "LayerSet": "Frame Construction"
+    },
+    {
+        "filename": "1975-1991_Terrace House Corner_Red fired clay brick.png",
+        "Year": "1975-1991",
+        "Region": "Eindhoven (Netherlands)",
+        "BuildingType": "Terrace House",
+        "materialCategory": "Brick",
+        "materialType": "Brick masonry unit",
+        "materialSubType": "Red fired clay brick",
+        "LayerSet": "Cavity Wall"
+    },
+    {
+        "filename": "1975-1991_Terrace House_Red fired clay brick.png",
+        "Year": "1975-1991",
+        "Region": "Eindhoven (Netherlands)",
+        "BuildingType": "Terrace House",
+        "materialCategory": "Brick",
+        "materialType": "Brick masonry unit",
+        "materialSubType": "Red fired clay brick",
+        "LayerSet": "Cavity Wall"
+    },
+    {
+        "filename": "1992-2005_Apartment House_Brown fired clay brick.png",
+        "Year": "1992-2005",
+        "Region": "Eindhoven (Netherlands)",
+        "BuildingType": "Apartment House",
+        "materialCategory": "Brick",
+        "materialType": "Brick masonry unit",
+        "materialSubType": "Brown fired clay brick",
+        "LayerSet": "Multi-Layer"
+    },
+    {
+        "filename": "1992-2005_Detached House_White stucco_Brick.png",
+        "Year": "1992-2005",
+        "Region": "Eindhoven (Netherlands)",
+        "BuildingType": "Detached House",
+        "materialCategory": null,
+        "materialType": null,
+        "materialSubType": null,
+        "LayerSet": "Multi-Layer"
+    },
+    {
+        "filename": "1992-2005_Gallery House_Red fired clay brick.png",
+        "Year": "1992-2005",
+        "Region": "Eindhoven (Netherlands)",
+        "BuildingType": "Apartment House",
+        "materialCategory": "Brick",
+        "materialType": "Brick masonry unit",
+        "materialSubType": "Red fired clay brick",
+        "LayerSet": "Frame Construction"
+    },
+    {
+        "filename": "1992-2005_Maisonette House_Red fired clay brick.png",
+        "Year": "1992-2005",
+        "Region": "Eindhoven (Netherlands)",
+        "BuildingType": "Apartment House",
+        "materialCategory": "Brick",
+        "materialType": "Brick masonry unit",
+        "materialSubType": "Red fired clay brick",
+        "LayerSet": "Frame Construction"
+    },
+    {
+        "filename": "1992-2005_Semi Detached House_Brown fired clay brick.png",
+        "Year": "1992-2005",
+        "Region": "Eindhoven (Netherlands)",
+        "BuildingType": "Semi Detached House",
+        "materialCategory": "Brick",
+        "materialType": "Brick masonry unit",
+        "materialSubType": "Brown fired clay brick",
+        "LayerSet": "Multi-Layer"
+    },
+    {
+        "filename": "1992-2005_Terrace House Corner_White fired clay brick.png",
+        "Year": "1992-2005",
+        "Region": "Eindhoven (Netherlands)",
+        "BuildingType": "Terrace House",
+        "materialCategory": "Brick",
+        "materialType": "Brick masonry unit",
+        "materialSubType": "White fired clay brick",
+        "LayerSet": "Cavity Wall"
+    },
+    {
+        "filename": "1992-2005_Terrace House_Red fired clay brick.png",
+        "Year": "1992-2005",
+        "Region": "Eindhoven (Netherlands)",
+        "BuildingType": "Terrace House",
+        "materialCategory": "Brick",
+        "materialType": "Brick masonry unit",
+        "materialSubType": "Red fired clay brick",
+        "LayerSet": "Cavity Wall"
+    },
+    {
+        "filename": "2006-2014_Apartment House_Brown fired clay brick.png",
+        "Year": "2006-2014",
+        "Region": "Eindhoven (Netherlands)",
+        "BuildingType": "Apartment House",
+        "materialCategory": "Brick",
+        "materialType": "Brick masonry unit",
+        "materialSubType": "Brown fired clay brick",
+        "LayerSet": "Frame Construction"
+    },
+    {
+        "filename": "2006-2014_Gallery House_Red fired clay brick.png",
+        "Year": "2006-2014",
+        "Region": "Eindhoven (Netherlands)",
+        "BuildingType": "Apartment House",
+        "materialCategory": "Brick",
+        "materialType": "Brick masonry unit",
+        "materialSubType": "Red fired clay brick",
+        "LayerSet": "Frame Construction"
+    },
+    {
+        "filename": "2006-2014_Maisonette House_Light weight Concrete.png",
+        "Year": "2006-2014",
+        "Region": "Eindhoven (Netherlands)",
+        "BuildingType": "Apartment House",
+        "materialCategory": "Concrete",
+        "materialType": "Light weight Concrete ",
+        "materialSubType": null,
+        "LayerSet": "Frame Construction"
+    },
+    {
+        "filename": "2006-2014_Semi Detached House_Red fired clay brick.png",
+        "Year": "2006-2014",
+        "Region": "Eindhoven (Netherlands)",
+        "BuildingType": "Semi Detached House",
+        "materialCategory": "Brick",
+        "materialType": "Brick masonry unit",
+        "materialSubType": "Red fired clay brick",
+        "LayerSet": "Multi Layer Wall"
+    },
+    {
+        "filename": "2006-2014_Terrace House Corner_Red fired clay brick.png",
+        "Year": "2006-2014",
+        "Region": "Eindhoven (Netherlands)",
+        "BuildingType": "Terrace House",
+        "materialCategory": "Brick",
+        "materialType": "Brick masonry unit",
+        "materialSubType": "Red fired clay brick",
+        "LayerSet": "Multi Layer Wall"
+    },
+    {
+        "filename": "2006-2014_Terrace House_Brown fired clay brick.png",
+        "Year": "2006-2014",
+        "Region": "Eindhoven (Netherlands)",
+        "BuildingType": "Terrace House",
+        "materialCategory": "Brick",
+        "materialType": "Brick masonry unit",
+        "materialSubType": "Brown fired clay brick",
+        "LayerSet": "Multi Layer Wall"
+    },
+    {
+        "filename": "2015-2018_Gallery House_Red fired clay brick.png",
+        "Year": "2015-2018",
+        "Region": "Eindhoven (Netherlands)",
+        "BuildingType": "Apartment House",
+        "materialCategory": "Brick",
+        "materialType": "Brick masonry unit",
+        "materialSubType": "Red fired clay brick",
+        "LayerSet": "Multi Layer Wall"
+    },
+    {
+        "filename": "2015-2018_Maisonette House_Red fired clay brick.png",
+        "Year": "2015-2018",
+        "Region": "Eindhoven (Netherlands)",
+        "BuildingType": "Apartment House",
+        "materialCategory": "Brick",
+        "materialType": "Brick masonry unit",
+        "materialSubType": "Red fired clay brick",
+        "LayerSet": "Frame Construction"
+    },
+    {
+        "filename": "2015-2018_Terrace House Corner_White fired clay brick.png",
+        "Year": "2015-2018",
+        "Region": "Eindhoven (Netherlands)",
+        "BuildingType": "Terrace House",
+        "materialCategory": "Brick",
+        "materialType": "Brick masonry unit",
+        "materialSubType": "White fired clay brick",
+        "LayerSet": "Cavity Wall"
+    },
+    {
+        "filename": "2015-2018_Terrace House_White fired clay brick.png",
+        "Year": "2015-2018",
+        "Region": "Eindhoven (Netherlands)",
+        "BuildingType": "Terrace House",
+        "materialCategory": "Brick",
+        "materialType": "Brick masonry unit",
+        "materialSubType": "White fired clay brick",
+        "LayerSet": "Cavity Wall"
+    },
+    {
+        "filename": "2015-2018_Apartment House_Light weight Concrete.png",
+        "Year": "2015-2018",
+        "Region": "Eindhoven (Netherlands)",
+        "BuildingType": "Apartment House",
+        "materialCategory": "Concrete",
+        "materialType": "Cement Stucco",
+        "materialSubType": "Cement Stucco",
+        "LayerSet": "Frame Construction"
+    },
+    {
+        "filename": "2015-2018_Detached House_Red fired clay brick.png",
+        "Year": "2015-2018",
+        "Region": "Eindhoven (Netherlands)",
+        "BuildingType": "Detached House",
+        "materialCategory": "Brick",
+        "materialType": "Clay Unit",
+        "materialSubType": "Red clay unit brick",
+        "LayerSet": "Cavity Wall"
+    },
+    {
+        "filename": "1964-1974_Gallery House_Light weight Concrete.png",
+        "Year": "1964-1974",
+        "Region": "Eindhoven (Netherlands)",
+        "BuildingType": "Apartment House",
+        "materialCategory": "Concrete",
+        "materialType": "Cement Stucco",
+        "materialSubType": "Cement Stucco",
+        "LayerSet": "Frame Construction"
+    },
+    {
+        "filename": "1992-2005_Maisonette House_Clay unit.png",
+        "Year": "1992-2005",
+        "Region": "Eindhoven (Netherlands)",
+        "BuildingType": "Apartment House",
+        "materialCategory": "Brick",
+        "materialType": "Clay Unit",
+        "materialSubType": "Red fired clay brick",
+        "LayerSet": "Frame Construction"
+    },
+    {
+        "filename": "2015-2018_Terrace House_Red fired clay brick.png",
+        "Year": "2015-2018",
+        "Region": "Eindhoven (Netherlands)",
+        "BuildingType": "Terrace House",
+        "materialCategory": "Brick",
+        "materialType": "Clay unit",
+        "materialSubType": "Red fired clay brick",
+        "LayerSet": "Cavity Wall"
+    },
+    {
+        "filename": "2015-2018_Terrace House_Red fired clay brick2.png",
+        "Year": "2015-2018",
+        "Region": "Eindhoven (Netherlands)",
+        "BuildingType": "Terrace House",
+        "materialCategory": "Brick",
+        "materialType": "Clay unit",
+        "materialSubType": "Red fired clay brick",
+        "LayerSet": "Cavity Wall"
+    }
+]

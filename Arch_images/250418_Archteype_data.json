@@ -1,0 +1,49 @@
+[
+    {
+      "image_path": "Detached House.png",
+      "label": "This is a Detached House, a Single-family house, and the facade is made out of red fire clay brick."
+    },
+    {
+      "image_path": "1964_Detached House_Red fired clay brick.png",
+      "label": "This is a Detached House, a Single-family house, constructed before 1964 and the facade is made out of red fire clay brick."
+    },
+    {
+      "image_path": "1964_Detached House_White fired clay brick",
+      "label": "This is a Detached House, a Single-family house, constructed before 1964 and the facade is made out of white painted fire clay brick."
+    },
+    {
+      "image_path": "1964-1974_Detached House_Red fired clay brick_3.png",
+      "label": "This is a Detached House, a Single-family house, constructed between 1964 until 1974 and the facade is made out of red fire clay brick."
+    },
+    {
+      "image_path": "1964-1974_Detached House_Red fired clay brick_4.png",
+      "label": "This is a Detached House, a Single-family house, constructed between 1964 until 1974 and the facade is made out of red fire clay brick."
+    },
+
+    
+    {
+      "image_path": "TerraceHouse_Ref fired clay brick.png",
+      "label": "This is a Terrace House, and the facade is made out of red fire clay brick."
+    },
+    {
+      "image_path": "1946_TerraceHouse_Red fired clay brick.png",
+      "label": "This is a Terrace House, constructed before 1946 and the facade is made out of red fire clay brick."
+    },
+    {
+      "image_path": "1946-1964_TerraceHouse_Red fired clay brick.png" ,
+      "label": "This is a Terrace House, constructed between 1946 and 1964 the facade is made out of red fire clay brick."
+    },
+
+    {
+      "image_path": "1965-1974_TerraceHouse_Red fired clay brick.png",
+      "label": "This is a Terrace House, constructed between 1965 and 1974 the facade is made out of red fire clay brick."
+    }
+    
+
+    
+    
+
+
+    
+  ]
+  
